@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'PlotlyJS Visual by Akvelon',
-  tagline: 'Plotly.js visual by Akvelon combines Plotly.js, react-chart-editor and Power BI together',
+  tagline: 'Akvelon’s PlotyJS Visual was created to connect data in Power BI and the capabilities of the Plotly.js visualization library, allowing users to reuse knowledge and existing solutions in their Power BI reports and dashboards.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
