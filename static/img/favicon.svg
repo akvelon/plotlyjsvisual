@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"> <svg version="1.1"
+    id="Layer_2_copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0.028 24 16" xml:space="preserve"
+    data-license="&amp;nbsp;" data-author="&amp;nbsp;" fill="#666666">
+    <g transform="scale(0.1)">
+        <!-- <rect width="160" height="160" fill="white" /> -->
+        <rect rx="5" ry="5" x="75" y="30" width="70" height="15" fill="orange" />
+        <rect rx="5" ry="5" x="50" y="70" width="95" height="15" fill="orange" />
+        <rect rx="5" ry="5" x="25" y="110" width="120" height="15" fill="orange" />
+        <text x="72" y="82" width="95" height="15" fill="white">
+            AKVELON
+        </text>  />
+        
+    </g>
+</svg>

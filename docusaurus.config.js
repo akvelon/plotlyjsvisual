@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'PlotlyJS Visual by Akvelon',
   tagline: 'Akvelon’s PlotyJS Visual was created to connect data in Power BI and the capabilities of the Plotly.js visualization library, allowing users to reuse knowledge and existing solutions in their Power BI reports and dashboards.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
   url: 'https://akvelon.github.io/',
