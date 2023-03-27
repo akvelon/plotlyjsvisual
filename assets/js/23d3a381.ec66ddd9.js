@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplotlyjs_visual=self.webpackChunkplotlyjs_visual||[]).push([[8717],{5896:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/plotlyjsvisual/blog/tags/docusaurus","allTagsPath":"/plotlyjsvisual/blog/tags","count":4}')}}]);
