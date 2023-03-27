@@ -92,7 +92,7 @@ const config = {
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
-              },
+              }
             ],
           },
           {
@@ -112,19 +112,19 @@ const config = {
               },
             ],
           },
-          // {
-          //   title: 'More',
-          //   items: [
-          //     {
-          //       label: 'Blog',
-          //       to: '/blog',
-          //     },
-          //     {
-          //       label: 'GitHub',
-          //       href: 'https://github.com/facebook/docusaurus',
-          //     },
-          //   ],
-          // },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'Akvelon Inc.',
+                href: 'https://akvelon.com/',
+              },
+              {
+                label: 'Get In Touch',
+                to: 'https://akvelon.com/contact-us/',
+              }
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Akvelon, Inc. Built with Docusaurus.`,
       },
