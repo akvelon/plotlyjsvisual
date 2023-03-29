@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# PlotlyJS visual overview
+# Visual overview
 
 Akvelon’s PlotyJS Visual was created to connect data in Power BI and the capabilities of the Plotly.js visualization library, allowing users to reuse knowledge and existing solutions in their Power BI reports and dashboards.
 

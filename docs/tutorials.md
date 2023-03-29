@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Plotly.js documentation
+# Documentation
 
 Chart Studio in the visual and Dash website have the same bases, and users can use [official tutorials of Chart Studio from the web site](https://plotly.com/chart-studio-help/tutorials/#basic). The main difference is connecting data and exporting charts. Visual users in Power BI just need to assign columns to the visuals from a Power BI data model.
 
