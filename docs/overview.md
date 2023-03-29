@@ -12,7 +12,7 @@ This visual supports the same charting schemas as Chart Studio, making it easy t
 
 If you want a quick overview of the visual, watch this video by Kerry Kolosko and Reid Havens, in which they share their experience with using the visual.
 
-![Video about PlotlyJS visual by Kerry Kolosko and Reid Havens](https://www.youtube.com/embed/ckJRvHVQPJk)
+<iframe width="850" height="473" src="https://www.youtube.com/embed/ckJRvHVQPJk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Declarative
 
