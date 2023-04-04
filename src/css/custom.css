@@ -32,3 +32,8 @@
 .footer__col {
   text-align: center;
 }
+
+.plot {
+  display: flex;
+  justify-content: center;
+}
