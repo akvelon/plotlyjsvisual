@@ -2,6 +2,8 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+The repository deploys on [https://akvelon.github.io/plotlyjsvisual/](https://akvelon.github.io/plotlyjsvisual/)
+
 ### Installation
 
 ```
