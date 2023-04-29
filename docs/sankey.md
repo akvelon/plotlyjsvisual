@@ -119,7 +119,7 @@ in
 
 When data is ready, create the visual instance on a report page and assign `NodeLink`, `NodeLabel`, `SourceID`, `DestinationID`, and `Value` columns to the visual instance:
 
-![PlotlyJS visual with data columns for Sankey](./img/sankey_tutorial1.png)
+![PlotlyJS Visual with data columns for Sankey](./img/sankey_tutorial1.png)
 
 Enter edit mode by clicking on `Edit` in the visual menu and click `+Trace`:
 

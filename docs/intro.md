@@ -22,11 +22,11 @@ Let's discover **Plotyl JS visual in 5 min**.
 
 2. Type <code>PlotlyJS</code> in the search bar to find the visual:
     
-    ![Search PlotlyJS visual in Appsource](./img/search_plotlyjs.png)
+    ![Search PlotlyJS Visual in Appsource](./img/search_plotlyjs.png)
     
     Then click on the PlotlyJS Visual icon to open the visual page.
     
-    ![PlotlyJS visual in Appsource page](./img/plotly_visual_appsource.png)
+    ![PlotlyJS Visual in Appsource page](./img/plotly_visual_appsource.png)
 
 3. Click on <code>Add</code> to load the visual into Power BI Desktop.
 
@@ -46,7 +46,7 @@ Let's discover **Plotyl JS visual in 5 min**.
     
     The visual will open in focus mode and will launch Chart studio.
     
-    ![Chart studio is the editing environment for PlotlyJS visuals](./img/editor.png)
+    ![Chart studio is the editing environment for PlotlyJS Visuals](./img/editor.png)
     
 ### Configuring the Simple Chart
 

@@ -14,16 +14,16 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/import.svg').default,
     description: (
       <>
-        All plotly.js charts in one visual.
+        All Plotly.JS charts in one convenient visual.
       </>
     ),
   },
   {
-    title: 'User freindly editor',
+    title: 'User friendly editor',
     Svg: require('@site/static/img/create.svg').default,
     description: (
       <>
-        Chart studio provides user freindly editor.
+        Chart studio provides a user friendly editor.
       </>
     ),
   },
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/share.svg').default,
     description: (
       <>
-        You can easily import and export charts, to share with colleagues.
+        You can easily import and export charts to share with your colleagues.
       </>
     ),
   },
