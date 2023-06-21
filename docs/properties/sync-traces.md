@@ -4,6 +4,12 @@ sidebar_position: 2
 
 # Sync traces with columns
 
+:::note
+
+The visual version 1.5.0 or above is required
+
+:::
+
 By default, the visual expects that the chart has a fixed count of traces. To improve reusability, users can enable the sync traces property.
 
 ![Sync traces property](./img/sync_traces_property.webp)
