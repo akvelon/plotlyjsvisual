@@ -16,6 +16,12 @@ The visual version 1.6.0 or above is required
 
 By default, plotly.js shows tooltips for traces on mouse hover over datapoints. There are columns names and correspond to datapoint values.
 
+![Plotly.js tooltip example](../img/tooltip_plotlyjs.png)
+
+Switch on "Plotly.js tooltips" in visual formatting panel to use tooltips provided by Plotly.js library.
+
+![Plotly.js tooltip in settings](../img/tooltips_plotlyjs_settings.png)
+
 ### hoverformat
 
 Provides format options for axes. Example:
@@ -63,8 +69,25 @@ Example:
 
 ## Power BI Tooltips
 
-The visual supports tooltips provided by Power BI also.
-The feature enables in formatting panel of the visual at `Visual => Plotly.js properties => Power BI tooltips`
+The visual supports tooltips provided by Power BI also. The feature requires [purchase the license](https://appsource.microsoft.com/en-us/marketplace/checkout/akvelon.plotlyjsvisualbyakvelon) in Appsource.
+
+Currently, the following Power BI environments don't require license purchasing for the PlotlyJS visual feature:
+
+* Embedded - Publish To Web, PaaS embed
+* National/Regional clouds (Depends on general support for transactability in national/regional clouds)
+* RS Server
+* Exporting (PDF\PPT) using REST API
+
+[Read about how to purchase a visual license](https://learn.microsoft.com/en-us/power-bi/developer/visuals/licensing-faq#purchasing) and [assign the license to users](https://learn.microsoft.com/en-us/power-bi/developer/visuals/licensing-faq#license-assignment). 
+
+[Read more about purchasing Power BI visuals in official documentation](https://learn.microsoft.com/en-us/power-bi/developer/visuals/licensing-faq#license-assignment).
+
+![Power BI tooltip example](../img/tooltip_powerbi.png)
+
+Switch on "Power BI tooltips" in visual formatting panel to use tooltips provided by Power BI visuals API.
+
+![Power BI tooltip in settings](../img/tooltips_powerbi_settings.png)
+
 The columns and properties of tooltip can be configured in `powerbi` config of the JSON file.
 
 ```json
