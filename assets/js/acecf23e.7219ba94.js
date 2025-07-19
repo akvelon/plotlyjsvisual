@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplotlyjs_visual=self.webpackChunkplotlyjs_visual||[]).push([[1903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/plotlyjsvisual/blog","blogTitle":"Blog","authorsListPath":"/plotlyjsvisual/blog/authors"}')}}]);

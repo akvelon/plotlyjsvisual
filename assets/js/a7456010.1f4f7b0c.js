@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplotlyjs_visual=self.webpackChunkplotlyjs_visual||[]).push([[1235],{8552:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

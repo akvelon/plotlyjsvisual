@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplotlyjs_visual=self.webpackChunkplotlyjs_visual||[]).push([[166],{7437:l=>{l.exports=JSON.parse('{"metadata":{"permalink":"/plotlyjsvisual/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

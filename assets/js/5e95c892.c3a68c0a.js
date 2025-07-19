@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplotlyjs_visual=self.webpackChunkplotlyjs_visual||[]).push([[9647],{7121:(s,e,l)=>{l.r(e),l.d(e,{default:()=>p});l(6540);var r=l(8215),u=l(5500),a=l(7559),t=l(2831),c=l(1656),n=l(4848);function p(s){return(0,n.jsx)(u.e3,{className:(0,r.A)(a.G.wrapper.docsPages),children:(0,n.jsx)(c.A,{children:(0,t.v)(s.route.routes)})})}}}]);

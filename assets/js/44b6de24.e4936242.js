@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkplotlyjs_visual=self.webpackChunkplotlyjs_visual||[]).push([[1494],{282:l=>{l.exports=JSON.parse('{"label":"facebook","permalink":"/plotlyjsvisual/blog/tags/facebook","allTagsPath":"/plotlyjsvisual/blog/tags","count":1}')}}]);
