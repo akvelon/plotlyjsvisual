@@ -50,9 +50,9 @@ For numbers, see [D3.js documentation](https://github.com/d3/d3-format/tree/v1.4
 
 ### hovertemplate
 
-Template string used for rendering the information that appear on hover box. Note that this will override `hoverinfo`. Variables are inserted using %{variable}, for example "y: %{y}" as well as %{xother}, {%_xother}, {%_xother_}, {%xother_}. When showing info for several points, "xother" will be added to those with different x positions from the first point. [Read details in documentation](https://plotly.com/javascript/reference/scatter/#scatter-hovertemplate)
+Template string used for rendering the information that appear on hover box. Note that this will override `hoverinfo`. Variables are inserted using `%{variable}`, for example "y: `%{y}`" as well as `%{xother}`, `{%_xother}`, `{%_xother_}`, `{%xother_}`. When showing info for several points, "xother" will be added to those with different x positions from the first point. [Read details in documentation](https://plotly.com/javascript/reference/scatter/#scatter-hovertemplate)
 
-Example: 
+Example:
 
 ```json
 {
